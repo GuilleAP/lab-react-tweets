@@ -13,6 +13,8 @@ body {
 
 .tweet {
   margin: 0 auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
   min-width: 480px;
   max-width: 640px;
   min-height: 80px;
